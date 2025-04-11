@@ -11,3 +11,6 @@ The recruitment process often involves manually reviewing numerous job descripti
 • Recruiting agent: Extracts key data from CVs, such as education, work experience, skills, certifications, and other relevant information. Compares the extracted data from the CV to the summarized JD and calculates a match score based on the relevance of the candidate's qualifications, experience, and skills. 
 • Shortlisting Candidates: Based on the match score, candidates who meet or exceed a defined threshold (e.g., 80% match) are shortlisted for interviews. 
 • Interview Scheduler: Sends personalized interview requests to shortlisted candidates, including potential dates, times, and interview format written in email.
+
+#### Here's the link for our presentation and the demo video:
+https://drive.google.com/drive/folders/1xzLVAkV2ev5X6eq3fp0azrZXCiU44dyZ?usp=sharing
